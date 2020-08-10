@@ -31,6 +31,6 @@ class Dog extends Pet {
   }
 }
 
-//using the new keyword to call the class and saving of the cat class in a variable
+//using the new keyword to call the class  saving of the cat class in a variable
 const monty = new Cat("Monty", 9);
 const joq = new Dog("Joq", 5);
